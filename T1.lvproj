@@ -12,6 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Control 1.ctl" Type="VI" URL="../Control 1.ctl"/>
+		<Item Name="T1 - ARC.vi" Type="VI" URL="../T1 - ARC.vi"/>
 		<Item Name="T1.vi" Type="VI" URL="../T1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
