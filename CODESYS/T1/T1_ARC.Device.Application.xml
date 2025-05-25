@@ -15,6 +15,9 @@
         <Node name="f2_MAN" type="T_REAL" access="ReadWrite" />
         <Node name="K" type="T_REAL" access="ReadWrite" />
         <Node name="K_MAN" type="T_REAL" access="ReadWrite" />
+        <Node name="KP_f2" type="T_REAL" access="ReadWrite" />
+        <Node name="KP_h" type="T_REAL" access="ReadWrite" />
+        <Node name="KP_K" type="T_REAL" access="ReadWrite" />
         <Node name="MAN" type="T_BOOL" access="ReadWrite" />
         <Node name="PV_f1" type="T_REAL" access="ReadWrite" />
         <Node name="PV_f2" type="T_REAL" access="ReadWrite" />
@@ -24,6 +27,12 @@
         <Node name="SP_f2" type="T_REAL" access="ReadWrite" />
         <Node name="SP_h" type="T_REAL" access="ReadWrite" />
         <Node name="SP_K" type="T_REAL" access="ReadWrite" />
+        <Node name="TN_f2" type="T_REAL" access="ReadWrite" />
+        <Node name="TN_h" type="T_REAL" access="ReadWrite" />
+        <Node name="TN_K" type="T_REAL" access="ReadWrite" />
+        <Node name="TV_f2" type="T_REAL" access="ReadWrite" />
+        <Node name="TV_h" type="T_REAL" access="ReadWrite" />
+        <Node name="TV_K" type="T_REAL" access="ReadWrite" />
         <Node name="u1_h" type="T_REAL" access="ReadWrite" />
         <Node name="u1_MAN" type="T_REAL" access="ReadWrite" />
         <Node name="u2" type="T_REAL" access="ReadWrite" />
